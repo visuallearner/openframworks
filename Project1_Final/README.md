@@ -19,5 +19,5 @@
 <br>
 
 **Link to Youtube video:**
-[![IopenFrameworks_project1](https://img.youtube.com/vi/2_65LDbYcZI0.jpg)](https://www.youtube.com/watch?v=2_65LDbYcZI "PROJECT1")
+[![IopenFrameworks_project1](https://img.youtube.com/vi/2_65LDbYcZI/0.jpg)](https://www.youtube.com/watch?v=2_65LDbYcZI"PROJECT1")
 
