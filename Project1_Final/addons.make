@@ -1,0 +1,5 @@
+ofxBox2d-master
+ofxGui
+ofxJSON
+ofxOpenCv
+ofxVectorGraphics
